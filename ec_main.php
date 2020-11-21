@@ -43,7 +43,7 @@ $kagu = $x->getItemData();
 <body>
     <header>
         <nav class="navbar navbar-expand bg-white">
-            <div class="navbar-brand ml-2"><h1>WorkShop</h1></div>
+            <div class="navbar-brand ml-2"><h1>workShop</h1></div>
             <div class="row ml-2 my-auto">
                 <ul class="navbar-nav mr-auto align-items-center">
                     <li class="nav-item p-3 font-weight-bold">ITEMS</li>
